@@ -1199,6 +1199,7 @@ QDialog#SendCoinsDialog .QFrame#frameCoinControl .QPushButton#pushButtonCoinCont
 padding-left:10px;
 padding-right:10px;
 min-height:25px;
+color:#a5a5a5;
 }
 
 QDialog#SendCoinsDialog .QFrame#frameCoinControl .QLabel#labelCoinControlFeatures { /* Coin Control Header */
